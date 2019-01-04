@@ -1,1 +1,1 @@
-A Simple ReactDom starterkit
+A Simple react test app
